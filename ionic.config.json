@@ -1,7 +1,8 @@
 {
   "name": "Azalhas",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular",
   "id": "84514fb6"
